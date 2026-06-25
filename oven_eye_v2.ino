@@ -8,7 +8,7 @@
 
 #define BLYNK_TEMPLATE_ID "TMPL2-GenTvVt"
 #define BLYNK_TEMPLATE_NAME "OvenEye"
-#define BLYNK_AUTH_TOKEN "4x-aAMCRR2cNWs-x2Lrw0Mpm30g9HNAQ"
+#define BLYNK_AUTH_TOKEN "###############"
 #include <BlynkSimpleEsp32.h>
 
 
